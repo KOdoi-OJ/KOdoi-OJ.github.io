@@ -72,7 +72,7 @@ main > .tagline {
 
 .instagee,
 .medium,
-.stackoverflow,
+.steam,
 .linkedin,
 .playstation,
 .apple,
@@ -100,7 +100,7 @@ main > .tagline {
 .medium {
 	animation: animate 3s linear infinite;
 }
-.stackoverflow {
+.steam {
 	animation: animate 3s linear infinite;
 }
 .linkedin {
